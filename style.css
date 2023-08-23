@@ -6,8 +6,8 @@ body {
 
 
 
-body {
-  overflow-x: hidden;
+h2{
+  color: blue;
 }
 
 @keyframes color {
